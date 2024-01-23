@@ -1,0 +1,64 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "Den",
+      "password": "den@123",
+      "status": 1
+    },
+    {
+      "id": "6",
+      "name": "Brijit Saju",
+      "email": "brijit@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "2",
+      "name": "Vanu",
+      "email": "vanu@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "4",
+      "name": "Sunny",
+      "email": "sunny@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "5",
+      "name": "Asha",
+      "email": "asha@gmail.com",
+      "status": "2"
+    },
+    {
+      "id": "7",
+      "name": "Sona",
+      "email": "sona@gmail.com",
+      "status": "2"
+    },
+    {
+      "id": "8",
+      "name": "Kyli",
+      "email": "kyli@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "9",
+      "name": "Hanu",
+      "email": "hanugmail.com",
+      "status": "2"
+    },
+    {
+      "id": "10",
+      "name": "Shiva",
+      "email": "shiva@gmail.com",
+      "status": "2"
+    },
+    {
+      "id": "11",
+      "name": "Ghiva",
+      "email": "Ghiva@gmail.com",
+      "status": "1"
+    }
+  ]
+}
